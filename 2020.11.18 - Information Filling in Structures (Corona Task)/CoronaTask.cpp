@@ -18,8 +18,6 @@ int main() {
 	bool type = false;
 	// false = debug
 	// true = type
-	string Author = "Gorbunov Daniil";
-	string CompileDate = "2020.11.18";
 	
 	string ActualInfoDate = "2020.09.07";
 	struct Sub {
